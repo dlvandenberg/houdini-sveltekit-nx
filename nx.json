@@ -8,6 +8,7 @@
       }
     }
   },
+  "defaultProject": "frontend",
   "targetDefaults": {
     "build": {
       "dependsOn": ["^build"],
